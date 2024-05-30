@@ -1,0 +1,43 @@
+#lasagna1, #chickenpesto1, #chickenparmesan1{
+  text-align: center;
+  background-color: yellow;
+  font-size: 45px;
+}
+
+#lasagna {
+  background-image: url("../images/Lasagna_image.webp");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 1000px;
+  background-color: white; /* Ensures the background color is white */
+  background-attachment: fixed; /* Fixes the background image in the viewport */
+}
+
+#chickenpesto {
+  background-image: url("../images/Chicken-Pesto.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 1000px;
+  background-color: white; /* Ensures the background color is white */
+  background-attachment: fixed; /* Fixes the background image in the viewport */
+}
+
+#chickenparmesan {
+background-image: url("../images/Chicken-Parmesan.jpg");
+background-repeat: no-repeat;
+background-position: center center;
+background-size: 1000px;
+background-color: white; /* Ensures the background color is white */
+background-attachment: fixed; /* Fixes the background image in the viewport */
+}
+
+.subheading#lasagna2,#chickenpesto2,#chickenparmesan2{
+  font-size:32px;
+  color:red;
+}
+
+.subheading{
+  color:blue;
+  font-weight:bold;
+}
+

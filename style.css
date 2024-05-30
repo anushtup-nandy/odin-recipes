@@ -1,0 +1,14 @@
+h1{
+  text-align: center;
+  background-color: yellow;
+  font-size: 45px;
+}
+
+#index {
+  background-image: url("./images/download.jpeg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 1000px;
+  background-color: white; /* Ensures the background color is white */
+  background-attachment: fixed; /* Fixes the background image in the viewport */
+}
